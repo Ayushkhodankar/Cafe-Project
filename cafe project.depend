@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1656482166 source:d:\programs\cafe project\main.c
+	<stdio.h>
+	<stdlib.h>
+
